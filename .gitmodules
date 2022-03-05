@@ -1,0 +1,3 @@
+[submodule "gitSpringMicroServicesV2/03.microservices/git-localconfig-repo"]
+	path = gitSpringMicroServicesV2/03.microservices/git-localconfig-repo
+	url = https://github.com/Asigi/BasicMicroServices_LocalConfig.git
